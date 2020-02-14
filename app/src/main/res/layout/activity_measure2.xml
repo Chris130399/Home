@@ -37,7 +37,7 @@
                     android:layout_below="@id/image_burns1"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="1.Figuring out if you have a First Degree Burn"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -51,7 +51,7 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 1"
+                    android:text="First degree burns are the most common, and happen as a result of light scalding, brief contact with hot items, and the sun."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -85,7 +85,7 @@
                     android:layout_below="@id/image_burns2"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="2.Know if you have a Second Degree Burn"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -99,7 +99,7 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 2"
+                    android:text="Your skin might also appear blotchy, blisters will form, and the pain will be much more intense."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -133,7 +133,7 @@
                     android:layout_below="@id/image_burns3"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="3.See if you have a Third Degree Burn"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -147,7 +147,7 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 3"
+                    android:text="Third degree burns are the most serious and need immediate medical attention."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -166,7 +166,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_burns4"
@@ -181,7 +181,7 @@
                     android:layout_below="@id/image_burns4"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="4.Treating MINOR Burns"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -192,10 +192,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 4"
+                    android:text="Run cool water over the burn. As soon as you can, run cool water over the burn. This will prevent further damage to your skin. Stick the burned area under cool running water for 10-15 minutes or until the pain subsides."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -214,7 +214,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_burns6"
@@ -229,7 +229,7 @@
                     android:layout_below="@id/image_burns6"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="5.Apply a Cold Compress"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -240,10 +240,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 5"
+                    android:text="If cold water isn’t an option, use a cold compress or ice pack wrapped in a towel. Place it over your burn. Apply the compress for 10-15 minutes, wait for 30 minutes, and then reapply for 10-15 minutes."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -277,7 +277,7 @@
                     android:layout_below="@id/image_burns7"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="6.Treat Pain"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -291,7 +291,7 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 6"
+                    android:text="Give over-the-counter pain reliever such as Acetaminophen (Panadol, Tylenol), Ibuprofen (Advil, Motrin, Nuprin), or Naproxen (Aleve, Naprosyn)."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -310,7 +310,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_burns8"
@@ -325,7 +325,7 @@
                     android:layout_below="@id/image_burns8"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="7.Protect Burn"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -336,10 +336,11 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 7"
+                    android:text="Cover with sterile, non-adhesive bandage or clean cloth. DO NOT apply butter, oil, lotions, or creams (especially if they contain fragrance). Apply a petroleum-based ointment two to three times per day.
+"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -373,7 +374,7 @@
                     android:layout_below="@id/image_burns9"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Burns and Scalds"
+                    android:text="8.When to See a Doctor"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -387,7 +388,8 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 8"
+                    android:text="Seek Medical help if: You see signs of infection, like increased pain, redness, swelling, fever, or oozing.
+"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
