@@ -9,27 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MeasuresActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
 
+        <activity android:name=".MeasuresActivity"></activity>
         <activity android:name="com.Measures.Measure1"></activity>
         <activity android:name="com.Measures.Measure2"></activity>
         <activity android:name="com.Measures.Measure3"></activity>
         <activity android:name="com.Measures.Measure4"></activity>
 
-        //IntroSlider
-        <activity android:name=".IntroScreenActivity">
-
-        </activity>
-        <activity android:name=".IntroActivity">
-
-        </activity>
-        <activity android:name=".Splash_screen">
+        <activity android:name="com.IntroSlider.IntroScreenActivity"></activity>
+        <activity android:name="com.IntroSlider.IntroActivity"></activity>
+        <activity android:name="com.IntroSlider.Splash_screen">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,6 +28,9 @@
             </intent-filter>
 
         </activity>
+
+
+
 
     </application>
 
