@@ -6,7 +6,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.home.R;
 
-
 public class Measure1 extends AppCompatActivity {
 
     @Override

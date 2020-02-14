@@ -37,7 +37,7 @@
                     android:layout_below="@id/image_seizure1"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:text="1.Make the person lie down"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -48,10 +48,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 1"
+                    android:text="Make sure you help the person lay down. If the person is lying down when you find them, try to get them onto their side with their mouth angled towards the floor."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -70,7 +70,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_seizure2"
@@ -85,7 +85,7 @@
                     android:layout_below="@id/image_seizure2"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:text="2.Clear away any harmful objects"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -96,10 +96,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 2"
+                    android:text="People who have seizures may injure themselves by hitting furniture, walls, or other nearby objects. To help the person avoid injury, move all objects around them as far away as possible."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -133,7 +133,8 @@
                     android:layout_below="@id/image_seizure3"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:layout_marginEnd="12dp"
+                    android:text="3.Avoid placing anything in the person’s mouth"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -147,7 +148,7 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 3"
+                    android:text="Never place anything in a seizing person’s mouth and do not try to restrain the person."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -181,7 +182,7 @@
                     android:layout_below="@id/image_seizure4"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:text="4.Time the duration and remain calm"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -192,10 +193,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 4"
+                    android:text="If someone near you has a seizure, you should try to time the length of the seizure. You should stay calm to help the person who is seizing."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -214,7 +215,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_seizure5"
@@ -229,7 +230,8 @@
                     android:layout_below="@id/image_seizure5"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:layout_marginEnd="12dp"
+                    android:text="5.Turn the person to their side and observe for any injury"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -240,10 +242,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 5"
+                    android:text="Once the seizure is over, turn the person to their side and observe for any injury. Wait till the person regains complete consciousness. Stay with the person while they rest and recover."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -262,7 +264,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_seizure6"
@@ -277,7 +279,7 @@
                     android:layout_below="@id/image_seizure6"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:text="6.Time the person’s recovery"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -288,10 +290,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 6"
+                    android:text="Just like you timed the seizure, you should also time their recovery. Evaluate how long it takes for the person to recover from the seizure and return to their normal state and activity level."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -325,7 +327,7 @@
                     android:layout_below="@id/image_seizure7"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:text="7.Call an Emergency service"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -339,7 +341,7 @@
                     android:maxLines="3"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 7"
+                    android:text="If they take longer than 15 minutes to recover, call emergency services."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
@@ -358,7 +360,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="400dp">
+                android:layout_height="450dp">
 
                 <ImageView
                     android:id="@+id/image_seizure8"
@@ -373,7 +375,7 @@
                     android:layout_below="@id/image_seizure8"
                     android:layout_marginTop="10dp"
                     android:layout_marginStart="16dp"
-                    android:text="Seizure"
+                    android:text="8.Reassure the person"
                     android:textSize="16sp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
@@ -384,10 +386,10 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
-                    android:maxLines="3"
+                    android:maxLines="5"
                     android:drawablePadding="10dp"
                     android:ellipsize="end"
-                    android:text="Step 8"
+                    android:text="Seizures can be frightening and stressful situations. Remember that a person may be confused or embarrassed when they wake up. Remind the person they are safe. When they are conscious and alert, explain what happened to them."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
